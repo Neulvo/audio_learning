@@ -258,7 +258,7 @@ source : https://arxiv.org/pdf/1809.11096.pdf
 
 ![Image for post](https://miro.medium.com/max/1612/1*zey5nfDL-ZUr0tMzjW2RyA.jpeg)
 
-       - - The Frobenius norm, sometimes also called the Euclidean norm (a term unfortunately also used for the vector ![L^2](https://mathworld.wolfram.com/images/equations/FrobeniusNorm/Inline1.gif)-norm), is [matrix norm](https://mathworld.wolfram.com/MatrixNorm.html) of an ![m×n](https://mathworld.wolfram.com/images/equations/FrobeniusNorm/Inline2.gif) matrix ![A](https://mathworld.wolfram.com/images/equations/FrobeniusNorm/Inline3.gif) defined as the [square root](https://mathworld.wolfram.com/SquareRoot.html) of the sum of the absolute squares of its elements,
+- The Frobenius norm, sometimes also called the Euclidean norm (a term unfortunately also used for the vector ![L^2](https://mathworld.wolfram.com/images/equations/FrobeniusNorm/Inline1.gif)-norm), is [matrix norm](https://mathworld.wolfram.com/MatrixNorm.html) of an ![m×n](https://mathworld.wolfram.com/images/equations/FrobeniusNorm/Inline2.gif) matrix ![A](https://mathworld.wolfram.com/images/equations/FrobeniusNorm/Inline3.gif) defined as the [square root](https://mathworld.wolfram.com/SquareRoot.html) of the sum of the absolute squares of its elements
 
 ![ ||A||_F=sqrt(sum_(i=1)^msum_(j=1)^n|a_(ij)|^2) ](https://mathworld.wolfram.com/images/equations/FrobeniusNorm/NumberedEquation1.gif)
 
